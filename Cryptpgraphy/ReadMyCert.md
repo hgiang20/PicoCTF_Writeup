@@ -2,7 +2,7 @@
 '100 point' 
 
 # Description #
-How about we take you on an adventure on exploring certificate signing requests
+How about we take you on an adventure to explore certificate signing requests
 Take a look at this CSR file here.
 
 # Tiếp cận #
