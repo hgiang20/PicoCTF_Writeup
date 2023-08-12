@@ -1,5 +1,5 @@
 # Overview #
-`100 points `
+`100 points` `substitution`
 
 # Description #
 A message has come in but it seems to be all scrambled. Luckily it seems to have the key at the beginning. Can you crack this substitution cipher?
